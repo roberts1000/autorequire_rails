@@ -1,0 +1,22 @@
+AllCops:
+  Exclude:
+    - spec/dummy/db/schema.rb
+
+Style/StringLiterals:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 130
+
+Style/StderrPuts:
+  Exclude:
+    - spec/dummy/bin/yarn
+
+Style/MixinUsage:
+  Exclude:
+    - spec/dummy/bin/setup
+    - spec/dummy/bin/update
+
+Lint/HandleExceptions:
+  Exclude:
+    - lib/autorequire_rails.rb

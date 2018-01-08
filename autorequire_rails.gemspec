@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["roberts1000"]
   spec.email         = ["roberts@corlewsolutions.com"]
 
-  spec.summary       = %q(A Rails engine that requires all ruby files in lib/autorequire when a Rails app boots.)
-  spec.description   = %q(A Rails engine that requires all ruby files in lib/autorequire when a Rails app boots.)
+  spec.summary       = "A Rails engine that requires all ruby files in lib/autorequire when a Rails app boots."
+  spec.description   = "A Rails engine that requires all ruby files in lib/autorequire when a Rails app boots."
   spec.homepage      = "https://github.com/corlewsolutions/autorequire_rails"
   spec.license       = "MIT"
 
@@ -22,8 +22,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "pry", "~> 0.11.3"
   spec.add_development_dependency "rake", "~> 12.0"
   spec.add_development_dependency "rspec-rails", "~> 3.7.2"
-  spec.add_development_dependency "sqlite3", "~> 1.3.11"
   spec.add_development_dependency "sass-rails", "~> 5.0"
+  spec.add_development_dependency "sqlite3", "~> 1.3.11"
 
   spec.add_dependency "rails", ">= 4"
 end
