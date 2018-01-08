@@ -4,5 +4,6 @@ source 'https://rubygems.org'
 gemspec
 
 group :development, :test do
+  gem 'bootsnap', require: false
   gem 'puma', '~> 3.7'
 end
