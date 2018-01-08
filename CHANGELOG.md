@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.0.2 (Jan 08, 2018)
+
+1. Publish a new version to replace the two earlier versions that were yanked from Rubygems.
+
 ## 1.0.1 (Jan 08, 2018)
 
 1. Polish the gem and add automated tests.  (Issue #3)
