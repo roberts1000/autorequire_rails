@@ -16,7 +16,3 @@ Style/MixinUsage:
   Exclude:
     - spec/dummy/bin/setup
     - spec/dummy/bin/update
-
-Lint/HandleExceptions:
-  Exclude:
-    - lib/autorequire_rails.rb
