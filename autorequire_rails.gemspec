@@ -25,5 +25,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "sass-rails", "~> 5.0"
   spec.add_development_dependency "sqlite3", "~> 1.3.11"
 
-  spec.add_dependency "rails", ">= 4"
+  # The following code lets us test against multiple versions of Rails.  The travis.yml has a section that sets the
+  # environment variable during testing.
+  rails_version = ENV["BASE_RAILS_VERSION"] ? "~> #{ENV['BASE_RAILS_VERSION']}" : ">= 4"
+  spec.add_dependency "rails", rails_version
 end
