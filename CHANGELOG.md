@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## In Development
+
+1. Add the rubocop_plus gem and cleanup internal code.  (Issue #13)
+
 ## 1.0.2 (Jan 08, 2018)
 
 1. Publish a new version to replace the two earlier versions that were yanked from Rubygems.
