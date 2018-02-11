@@ -5,6 +5,7 @@ gemspec
 
 group :development do
   gem 'rubocop_plus', "~> 1.0", require: false
+  gem 'rspec_starter', "~> 1.1", require: false
 end
 
 group :development, :test do

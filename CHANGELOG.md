@@ -3,6 +3,7 @@
 ## In Development
 
 1. Add the rubocop_plus gem and cleanup internal code.  (Issue #13)
+1. Add the rspec_starter gem to run rspec specs.  (Issue #15)
 
 ## 1.0.2 (Jan 08, 2018)
 
