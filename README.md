@@ -10,9 +10,11 @@ To solve these kinds of problems, you typically have to explicitly require files
 
 This gem uses [semver](http:/semver.org).
 
+Rails versions that reach EOL are removed in a major or minor release.
+
 ## Supported Rails Versions
 
-Rails 4+.
+Rails 5.2+.
 
 ## Installation
 
