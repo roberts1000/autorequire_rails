@@ -12,6 +12,7 @@ Issues marked as **(Internal)** mark internal development work. Issues are track
 1. [#35](../../issues/35): Use `sqlite3` `~> 1.4.0` for development. **(Internal)**
 1. [#37](../../issues/37): Use `rspec-rails` `~> 5.0.0` for development. **(Internal)**
 1. [#39](../../issues/39): Use `rubocop_plus` `~> 2.0` for development. **(Internal)**
+1. [#41](../../issues/41): Use `rake` `~> 13.0` for development. **(Internal)**
 
 ## 1.0.2 (Jan 08, 2018)
 
