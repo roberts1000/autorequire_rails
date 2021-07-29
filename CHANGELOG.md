@@ -7,6 +7,7 @@ Issues marked as **(Internal)** mark internal development work. Issues are track
 1. [#13](../../issues/13): Add the rubocop_plus gem and cleanup internal code. **(Internal)**
 1. [#15](../../issues/15): Add the rspec_starter gem to run rspec specs. **(Internal)**
 1. [#30](../../issues/30): Update the CHANGELOG. **(Internal)**
+1. [#32](../../issues/32): Add GitHub action to check pull requests. **(Internal)**
 
 ## 1.0.2 (Jan 08, 2018)
 
