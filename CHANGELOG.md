@@ -13,6 +13,7 @@ Issues marked as **(Internal)** mark internal development work. Issues are track
 1. [#37](../../issues/37): Use `rspec-rails` `~> 5.0.0` for development. **(Internal)**
 1. [#39](../../issues/39): Use `rubocop_plus` `~> 2.0` for development. **(Internal)**
 1. [#41](../../issues/41): Use `rake` `~> 13.0` for development. **(Internal)**
+1. [#44](../../issues/44): Drop support for Rails 5.1 and earlier.
 
 ## 1.0.2 (Jan 08, 2018)
 
