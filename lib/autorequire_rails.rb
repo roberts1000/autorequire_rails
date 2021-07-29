@@ -11,3 +11,4 @@ begin
 rescue LoadError
 end
 # rubocop:enable Lint/HandleExceptions
+
