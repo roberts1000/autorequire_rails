@@ -4,6 +4,6 @@ RSpec.describe AutorequireRails do
   end
 
   it "requires an ruby extension to a ruby core class located in autorequire/core_ext" do
-    expect("some string".and_1).to eq("some string 1")
+    expect("some string".and1).to eq("some string 1")
   end
 end
