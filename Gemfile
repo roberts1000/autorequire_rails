@@ -10,5 +10,5 @@ end
 
 group :development, :test do
   gem 'bootsnap', require: false
-  gem 'puma', '~> 3.7'
+  gem 'puma', '~> 5.3'
 end
