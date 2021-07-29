@@ -1,9 +1,12 @@
 # CHANGELOG
 
+Issues marked as **(Internal)** mark internal development work. Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues.
+
 ## Next Release
 
-1. Add the rubocop_plus gem and cleanup internal code.  ([Issue #13](https://github.com/corlewsolutions/autorequire_rails/issues/13))
-1. Add the rspec_starter gem to run rspec specs.  ([Issue #15](https://github.com/corlewsolutions/autorequire_rails/issues/15))
+1. [#13](../../issues/13): Add the rubocop_plus gem and cleanup internal code. **(Internal)**
+1. [#15](../../issues/15): Add the rspec_starter gem to run rspec specs. **(Internal)**
+1. [#30](../../issues/30): Update the CHANGELOG. **(Internal)**
 
 ## 1.0.2 (Jan 08, 2018)
 
@@ -11,9 +14,9 @@
 
 ## 1.0.1 (Jan 08, 2018)
 
-1. Polish the gem and add automated tests.  ([Issue #3](https://github.com/corlewsolutions/autorequire_rails/issues/3))
-1. Reduce rubocop violations to 0.  ([Issue #6](https://github.com/corlewsolutions/autorequire_rails/issues/6))
+1. [#3](../../issues/3): Polish the gem and add automated tests. **(Internal)**
+1. [#6](../../issues/6): Reduce rubocop violations to 0. **(Internal)**
 
 ## 1.0.0 (Jan 07, 2018)
 
-1. Autorequire all files in `lib/autorequire` via an initializer.  ([Issue #1](https://github.com/corlewsolutions/autorequire_rails/issues/1))
+1. [#1](../../issues/1): Autorequire all files in `lib/autorequire` via an initializer.
