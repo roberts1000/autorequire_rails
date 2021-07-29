@@ -9,6 +9,7 @@ Issues marked as **(Internal)** mark internal development work. Issues are track
 1. [#30](../../issues/30): Update the CHANGELOG. **(Internal)**
 1. [#32](../../issues/32): Add GitHub action to check pull requests. **(Internal)**
 1. [#35](../../issues/35): Use `sqlite3` `~> 1.4.0` for development. **(Internal)**
+1. [#37](../../issues/37): Use `rspec-rails` `~> 5.0.0` for development. **(Internal)**
 
 ## 1.0.2 (Jan 08, 2018)
 
