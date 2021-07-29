@@ -24,7 +24,7 @@ jobs:
           ruby-version: ${{ matrix.ruby-version }}
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: Execute rspec command
-        run: bundle exec rspec
+        run: bin/start_rspec
   rubocop:
     name: Run Rubocop
     runs-on: ubuntu-latest
