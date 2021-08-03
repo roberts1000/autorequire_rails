@@ -12,6 +12,10 @@ This gem uses [semver](http:/semver.org).
 
 Rails versions that reach EOL are removed in a major or minor release.
 
+## Supported Ruby Versions
+
+Ruby 2.6.0+ is supported.
+
 ## Supported Rails Versions
 
 Rails 5.2+.
