@@ -16,6 +16,7 @@ Issues marked as **(Internal)** mark internal development work. Issues are track
 1. [#44](../../issues/44): Drop support for Rails 5.1 and earlier.
 1. [#46](../../issues/46): Modernize spec dummy setup. **(Internal)**
 1. [#48](../../issues/48): Sort autorequired files before requiring.
+1. [#51](../../issues/51): Set `required_ruby_version` to `>= 2.6.0`.
 
 ## 1.0.2 (Jan 08, 2018)
 
