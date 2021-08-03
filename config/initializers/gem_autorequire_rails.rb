@@ -8,4 +8,4 @@
 # and any methods defined in string.rb will never be loaded.  The general solution to this problem is to
 # manually require files that extend core classes inside an initializer.  The autorequire pattern takes this
 # a step farther by giving us a place to automatically require any .rb file.
-Dir.glob(Rails.root.join('lib', 'autorequire', '**', '*.rb')).each { |f| require f }
+Dir.glob(Rails.root.join('lib', 'autorequire', '**', '*.rb')).sort.each { |f| require f }
