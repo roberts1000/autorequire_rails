@@ -1,6 +1,6 @@
 # CHANGELOG
 
-Issues marked as **(Internal)** mark internal development work. Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues.
+Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. Issues marked as **(Internal)** only affect development.
 
 ## Next Release
 
@@ -17,6 +17,7 @@ Issues marked as **(Internal)** mark internal development work. Issues are track
 1. [#46](../../issues/46): Modernize spec dummy setup. **(Internal)**
 1. [#48](../../issues/48): Sort autorequired files before requiring.
 1. [#51](../../issues/51): Set `required_ruby_version` to `>= 2.6.0`.
+1. [#54](../../issues/54): Use `rspec_starter` `~> 2.0`. **(Internal)**
 
 ## 1.0.2 (Jan 08, 2018)
 
