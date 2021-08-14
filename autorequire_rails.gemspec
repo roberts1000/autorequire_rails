@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "A Rails engine that requires all ruby files in lib/autorequire when a Rails app boots."
   spec.description   = "A Rails engine that requires all ruby files in lib/autorequire when a Rails app boots."
-  spec.homepage      = "https://github.com/corlewsolutions/autorequire_rails"
+  spec.homepage      = "https://github.com/roberts1000/autorequire_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

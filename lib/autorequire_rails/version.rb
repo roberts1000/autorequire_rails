@@ -1,3 +1,3 @@
 module AutorequireRails
-  VERSION = "1.0.3-alpha.1".freeze
+  VERSION = "1.1.0".freeze
 end

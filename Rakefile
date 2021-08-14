@@ -15,7 +15,7 @@ RSpec::Core::RakeTask.new(:spec)
 
 task default: :spec
 
-desc "Run 'rake console' and have a console that already knows about the gem"
+desc "Run 'rake console' to start a Pry console with the gem loaded"
 task console: :environment do
   exec "pry -r autorequire_rails -I ./lib"
   # exec "irb -r autorequire_rails -I ./lib"

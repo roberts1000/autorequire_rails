@@ -2,12 +2,12 @@
 
 Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. Issues marked as **(Internal)** only affect development.
 
-## Next Release
+## 1.1.0 (Aug 14, 2021)
 
 1. [#13](../../issues/13): Add the rubocop_plus gem and cleanup internal code. **(Internal)**
 1. [#15](../../issues/15): Add the rspec_starter gem to run rspec specs. **(Internal)**
 1. [#29](../../issues/29): Use `puma ~> 5.3` for development. **(Internal)**
-1. [#30](../../issues/30): Update the CHANGELOG. **(Internal)**
+1. [#30](../../issues/30): Update the `CHANGELOG`. **(Internal)**
 1. [#32](../../issues/32): Add GitHub action to check pull requests. **(Internal)**
 1. [#35](../../issues/35): Use `sqlite3` `~> 1.4.0` for development. **(Internal)**
 1. [#37](../../issues/37): Use `rspec-rails` `~> 5.0.0` for development. **(Internal)**
