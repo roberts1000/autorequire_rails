@@ -8,17 +8,18 @@ To solve these kinds of problems, you typically have to explicitly require files
 
 ## Versioning Scheme
 
-This gem uses [semver](http:/semver.org).
+Releases are versioned using [SemVer 2.0.0](https://semver.org/spec/v2.0.0.html) with the following caveats:
 
-Rails versions that reach EOL are removed in a major or minor release.
+1. Support for a Ruby version, that reaches EOL, is removed in a major or minor release.
+1. Support for a Ruby on Rails version, that reaches EOL, is removed in a major or minor release.
 
 ## Supported Ruby Versions
 
-Ruby 2.6.0+ is supported.
+Ruby 2.6.0+ 
 
-## Supported Rails Versions
+## Supported Ruby on Rails Versions
 
-Rails 5.2+.
+Rails 5.2+
 
 ## Installation
 
