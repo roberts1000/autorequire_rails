@@ -28,7 +28,6 @@ jobs:
   rubocop:
     name: Run Rubocop
     runs-on: ubuntu-latest
-    needs: rspec
     strategy:
       matrix:
         ruby-version: ['2.6']
