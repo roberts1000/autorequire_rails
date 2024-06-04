@@ -12,6 +12,7 @@ Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. I
 1. [#70](../../issues/70): Add Ruby 3.2 support.
 1. [#71](../../issues/71): Add Ruby 3.3 support.
 1. [#74](../../issues/74): Add PR template. **(Internal)**
+1. [#76](../../issues/76): Make Rails 7.1 the min supported version.
 
 ## 1.1.0 (Aug 14, 2021)
 

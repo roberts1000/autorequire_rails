@@ -19,5 +19,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.required_ruby_version = '>= 3.0.0'
 
-  spec.add_dependency "rails", ">= 5.2"
+  spec.add_dependency "rails", ">= 7.1"
 end
