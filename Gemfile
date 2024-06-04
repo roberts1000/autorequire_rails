@@ -10,7 +10,6 @@ group :development do
 end
 
 group :development, :test do
-  gem "bootsnap", require: false
   gem "bundler", "~> 2.0"
   gem "debug", "~> 1.9"
   gem "puma", "~> 6.4"
