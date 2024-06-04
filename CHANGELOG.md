@@ -2,6 +2,10 @@
 
 Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. Issues marked as **(Internal)** only affect development.
 
+## Next Release
+
+1. [#60](../../issues/60): Update dev gems. **(Internal)**
+
 ## 1.1.0 (Aug 14, 2021)
 
 1. [#13](../../issues/13): Add the rubocop_plus gem and cleanup internal code. **(Internal)**
