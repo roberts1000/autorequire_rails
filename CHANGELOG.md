@@ -2,7 +2,7 @@
 
 Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. Issues marked as **(Internal)** only affect development.
 
-## Next Release
+## 2.0.0 (Jun 03, 2024)
 
 1. [#60](../../issues/60): Update dev gems. **(Internal)**
 1. [#62](../../issues/62): Remove Ruby 2.6 support.
