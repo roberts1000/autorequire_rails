@@ -9,6 +9,7 @@ Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. I
 1. [#64](../../issues/64): Remove Ruby 2.7 support.
 1. [#66](../../issues/66): Add Ruby 3.1 support.
 1. [#68](../../issues/68): Remove Ruby 3.0 support.
+1. [#70](../../issues/70): Add Ruby 3.2 support.
 
 ## 1.1.0 (Aug 14, 2021)
 
