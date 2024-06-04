@@ -5,6 +5,7 @@ Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. I
 ## Next Release
 
 1. [#60](../../issues/60): Update dev gems. **(Internal)**
+1. [#62](../../issues/62): Remove Ruby 2.6 support.
 
 ## 1.1.0 (Aug 14, 2021)
 
