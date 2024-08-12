@@ -2,7 +2,7 @@
 
 Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. Issues marked as **(Internal)** only affect development.
 
-## Next Release
+## 2.1.0 (Aug 12, 2024)
 
 1. [#82](../../issues/82): Make Rails 7.0 the min supported version.
 
