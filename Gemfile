@@ -16,5 +16,5 @@ group :development, :test do
   gem "rake", "~> 13.0"
   gem "rspec-rails", "~> 6.1.2"
   gem "sass-rails", "~> 6.0"
-  gem "sqlite3", "~> 1.4"
+  gem "sqlite3", "~> 2.6"
 end
