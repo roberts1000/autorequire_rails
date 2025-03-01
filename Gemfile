@@ -14,7 +14,7 @@ group :development, :test do
   gem "debug", "~> 1.9"
   gem "puma", "~> 6.4"
   gem "rake", "~> 13.0"
-  gem "rspec-rails", "~> 6.1.2"
+  gem "rspec-rails", "~> 7.1.1"
   gem "sass-rails", "~> 6.0"
   gem "sqlite3", "~> 2.6"
 end
