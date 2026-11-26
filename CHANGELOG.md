@@ -16,6 +16,7 @@ Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. I
 1. [#111](../../issues/111): Remove Ruby on Rails 7.1 support.
 1. [#113](../../issues/113): Remove Ruby on Rails 7.2 support.
 1. [#115](../../issues/115): Remove Ruby on Rails 8.0 support.
+1. [#117](../../issues/117): Configure `spec/dummy` as a Rails 8.1 app. **(Internal)**
 
 ## 2.1.0 (Aug 12, 2024)
 
