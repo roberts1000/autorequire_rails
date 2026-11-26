@@ -19,7 +19,7 @@ Ruby 3.3+
 
 ## Supported Ruby on Rails Versions
 
-Rails 8.0+
+Rails 8.1+
 
 ## Installation
 

@@ -15,6 +15,7 @@ Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. I
 1. [#109](../../issues/109): Remove Ruby on Rails 7.0 support.
 1. [#111](../../issues/111): Remove Ruby on Rails 7.1 support.
 1. [#113](../../issues/113): Remove Ruby on Rails 7.2 support.
+1. [#115](../../issues/115): Remove Ruby on Rails 8.0 support.
 
 ## 2.1.0 (Aug 12, 2024)
 
