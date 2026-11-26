@@ -33,6 +33,12 @@ And then execute:
 
     $ bundle
 
+In the `config/application.rb`, add the `autorequire` folder to the `autoload_lib` ignore list:
+
+```ruby
+config.autoload_lib(ignore: %w[autorequire ...other_folders....])
+```
+
 ## Usage
 
 Add any file with a `.rb` extension to the `lib/autorequire` folder (or a sub folder). Rails will automatically load it during the boot process.
