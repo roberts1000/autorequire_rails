@@ -2,12 +2,12 @@
 
 Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. Issues marked as **(Internal)** only affect development.
 
-## Next Release
+## 2.2.0 (Nov 26, 2026)
 
 1. [#88](../../issues/88): Update dev and test gems.
 1. [#90](../../issues/90): Remove Ruby 3.1 support.
 1. [#92](../../issues/92): Add Ruby 3.4 support.
-1. [#96](../../issues/96): Remove RUby 3.2 support.
+1. [#96](../../issues/96): Remove Ruby 3.2 support.
 1. [#98](../../issues/98): Use `actions/checkout@v7` in PR workflow. **(Internal)**
 1. [#102](../../issues/102): Modernize PR template. **(Internal)**
 1. [#104](../../issues/104): Add Ruby 4.0 support.
