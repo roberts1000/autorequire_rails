@@ -12,6 +12,7 @@ Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. I
 1. [#102](../../issues/102): Modernize PR template. **(Internal)**
 1. [#104](../../issues/104): Add Ruby 4.0 support.
 1. [#106](../../issues/106): Fix RuboCop issues. **(Internal)**
+1. [#109](../../issues/109): Remove Ruby on Rails 7.0 support.
 
 ## 2.1.0 (Aug 12, 2024)
 
