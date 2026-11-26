@@ -10,6 +10,7 @@ Issues are tracked at https://github.com/roberts1000/autorequire_rails/issues. I
 1. [#96](../../issues/96): Remove RUby 3.2 support.
 1. [#98](../../issues/98): Use `actions/checkout@v7` in PR workflow. **(Internal)**
 1. [#102](../../issues/102): Modernize PR template. **(Internal)**
+1. [#104](../../issues/104): Add Ruby 4.0 support.
 
 ## 2.1.0 (Aug 12, 2024)
 
